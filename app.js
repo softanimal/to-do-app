@@ -33,6 +33,11 @@ function onReady() {
   });
 }
 
+function myFunction() {
+    var x = document.getElementById("toDoList");
+    x.remove();
+}
+
 window.onload = function() {
   onReady();
 };
