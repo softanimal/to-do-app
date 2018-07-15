@@ -1,0 +1,27 @@
+header {
+  background: url(../images/hero.jpg) center / cover;
+  height: 60vh;
+  justify-content: center;
+  text-align: center;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.delete-button {
+  display: flex;
+  justify-content: center;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  display: inline;
+  padding: 10px;
+}
